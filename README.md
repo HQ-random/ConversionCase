@@ -18,7 +18,6 @@
     手动修改：在config/setting.py中修改文件名即可，源文件放入到source_folder目录，生成的文件在temp_folder目录；
     
 4、效果图：
-  xmind to excel：![image](https://github.com/user-attachments/assets/d2317283-5858-4718-9eee-48ce7d7f11f3)
-  转换后的excel：![image](https://github.com/user-attachments/assets/c45b0bd1-9151-4264-a4a6-4256e1a748b4)
-  功能描述：![image](https://github.com/user-attachments/assets/d0c1421d-57fe-4506-8c6e-f06057679305)
-
+    xmind to excel：![image](https://github.com/user-attachments/assets/d2317283-5858-4718-9eee-48ce7d7f11f3)
+    转换后的excel：![image](https://github.com/user-attachments/assets/c45b0bd1-9151-4264-a4a6-4256e1a748b4)
+    功能描述：![image](https://github.com/user-attachments/assets/d0c1421d-57fe-4506-8c6e-f06057679305)
