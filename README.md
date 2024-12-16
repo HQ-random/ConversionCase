@@ -11,6 +11,7 @@
         loguru          0.7.2
         XMind           1.2.0
         xmindparser     1.0.9
+        openpyxl        3.1.2
 
     3、执行：
         example：单例执行
